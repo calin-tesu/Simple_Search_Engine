@@ -1,5 +1,6 @@
 # Simple_Search_Engine
 A simple search engine that processes a collection of data and searches for a word or phrase. It reads text lines from a file and processes complex queries containing word sequences and uses several strategies that determine how to match data.
+
 The program can use different strategies for search, displaying results for lines:
 - containing all words from the query
 - containing at least one word from the query
